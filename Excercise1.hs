@@ -20,3 +20,4 @@ thetichhinhtru c d = c ^ 2 * pi * d
 -- Question 5
 -- Define a function that takes the height and radius of a cylinder and checks if the volume is greater than or equal to 42.
 thetichsosanhvoi42 c d = thetichhinhtru c d >= 42
+-- Finished!
