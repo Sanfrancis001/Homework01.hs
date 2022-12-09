@@ -19,5 +19,5 @@ cylinder_volume c d = c ^ 2 * pi * d
 
 -- Question 5
 -- Define a function that takes the height and radius of a cylinder and checks if the volume is greater than or equal to 42.
-cylinder_volume_compare_w_42 c d = cylinder_volume c d >= 42
+cylinder_volume_greater_than_42 c d = cylinder_volume c d >= 42
 -- Finished!
